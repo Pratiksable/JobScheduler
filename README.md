@@ -90,6 +90,12 @@ The backend exposes the following endpoints for managing schedules. You can also
 
 ---
 
+🙏 Acknowledgements
+
+The user interface for this project was built upon the excellent TailAdmin Free React Tailwind Admin Dashboard (https://github.com/TailAdmin/free-react-tailwind-admin-dashboard) template. A big thank you to its
+creators for providing such a great starting point.
+
+
 ## ⚖️ License
 
 This project is licensed under the MIT License - see the [LICENSE.md](frontend/LICENSE.md) file for details.
