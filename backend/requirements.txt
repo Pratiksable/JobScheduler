@@ -1,0 +1,3 @@
+Requirement already satisfied: apscheduler in c:\users\pratik sable\onedrive - bmsit.in\desktop\fastapi\scheduler-service\venv\lib\site-packages (3.11.0)
+Requirement already satisfied: tzlocal>=3.0 in c:\users\pratik sable\onedrive - bmsit.in\desktop\fastapi\scheduler-service\venv\lib\site-packages (from apscheduler) (5.3.1)
+Requirement already satisfied: tzdata in c:\users\pratik sable\onedrive - bmsit.in\desktop\fastapi\scheduler-service\venv\lib\site-packages (from tzlocal>=3.0->apscheduler) (2025.2)
